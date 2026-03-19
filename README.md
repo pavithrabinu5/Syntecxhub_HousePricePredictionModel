@@ -7,21 +7,6 @@ evaluation, and serialisation for inference.
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Architecture](#model-architecture)
-- [Results](#results)
-- [Feature Importance](#feature-importance)
-- [Limitations](#limitations)
-- [Future Work](#future-work)
-
----
-
 ## Overview
 
 This project implements a complete end-to-end regression pipeline to predict
